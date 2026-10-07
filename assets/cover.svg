@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Marcello Alves — Dados, IA e entrega consultiva</title>
+  <desc id="desc">Da pergunta de negócio à operação. Três casos: conciliação, consultas governadas e evidência documental.</desc>
+  <rect width="1280" height="380" fill="#142922"/>
+  <path d="M0 319H1280M865 0V319" stroke="#496056" stroke-width="1"/>
+  <text x="52" y="53" fill="#d3ddcd" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">MARCELLO ALVES / SELECTED WORK</text>
+  <text x="48" y="143" fill="#faf8f0" font-family="Georgia, serif" font-size="62">Da pergunta de negócio</text>
+  <text x="48" y="218" fill="#dcec9b" font-family="Georgia, serif" font-size="66">à operação.</text>
+  <text x="52" y="273" fill="#d3ddcd" font-family="Arial, sans-serif" font-size="19">Dados · IA aplicada · Entrega consultiva</text>
+  <text x="902" y="89" fill="#a4b8ad" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">TRÊS CAMINHOS PARA A DECISÃO</text>
+  <g font-family="Arial, sans-serif" font-size="19" fill="#faf8f0">
+    <text x="902" y="142"><tspan fill="#dcec9b">01</tspan><tspan dx="20">Conciliar</tspan></text>
+    <text x="902" y="200"><tspan fill="#dcec9b">02</tspan><tspan dx="20">Consultar</tspan></text>
+    <text x="902" y="258"><tspan fill="#dcec9b">03</tspan><tspan dx="20">Fundamentar</tspan></text>
+  </g>
+  <g stroke="#496056"><path d="M902 161H1228M902 219H1228"/></g>
+  <text x="52" y="355" fill="#d3ddcd" font-family="Arial, sans-serif" font-size="14" letter-spacing="1">CONTEXTO DE NEGÓCIO. CÓDIGO EXECUTÁVEL. EVIDÊNCIA.</text>
+  <text x="1228" y="355" text-anchor="end" fill="#dcec9b" font-family="Arial, sans-serif" font-size="13" letter-spacing="1">DADOS 100% SINTÉTICOS</text>
+</svg>

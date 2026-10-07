@@ -1,0 +1,123 @@
+{
+  "synthetic": true,
+  "cases": 12,
+  "passed": 12,
+  "retrieval_hit_at_3": 1.0,
+  "mean_reciprocal_rank": 1.0,
+  "abstention_accuracy": 1.0,
+  "results": [
+    {
+      "id": "E01",
+      "expected": "DOC-001",
+      "found": [
+        "DOC-001"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E02",
+      "expected": "DOC-002",
+      "found": [
+        "DOC-002"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E03",
+      "expected": "DOC-003",
+      "found": [
+        "DOC-003"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E04",
+      "expected": "DOC-004",
+      "found": [
+        "DOC-004"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E05",
+      "expected": "DOC-005",
+      "found": [
+        "DOC-005"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E06",
+      "expected": "DOC-006",
+      "found": [
+        "DOC-006"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E07",
+      "expected": "DOC-007",
+      "found": [
+        "DOC-007"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E08",
+      "expected": "DOC-008",
+      "found": [
+        "DOC-008"
+      ],
+      "passed": true,
+      "rank": 1,
+      "status": "evidence_found"
+    },
+    {
+      "id": "E09",
+      "expected": null,
+      "found": [],
+      "passed": true,
+      "rank": null,
+      "status": "abstained"
+    },
+    {
+      "id": "E10",
+      "expected": null,
+      "found": [],
+      "passed": true,
+      "rank": null,
+      "status": "abstained"
+    },
+    {
+      "id": "E11",
+      "expected": null,
+      "found": [],
+      "passed": true,
+      "rank": null,
+      "status": "abstained"
+    },
+    {
+      "id": "E12",
+      "expected": null,
+      "found": [],
+      "passed": true,
+      "rank": null,
+      "status": "abstained"
+    }
+  ],
+  "scope": "Small authored synthetic regression suite, not a representative production benchmark."
+}

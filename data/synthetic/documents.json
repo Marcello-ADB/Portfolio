@@ -1,0 +1,116 @@
+{
+  "synthetic": true,
+  "documents": [
+    {
+      "id": "DOC-001",
+      "version": 1,
+      "title": "Compra e cotação",
+      "body": "Compra acima de R$ 8.000 exige três propostas de cotação. O responsável registra a justificativa de escolha do fornecedor antes da aprovação.",
+      "roles": [
+        "operations",
+        "finance",
+        "legal"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-002",
+      "version": 2,
+      "title": "Prazo de reembolso",
+      "body": "O prazo de reembolso é de dez dias após a despesa. A solicitação deve conter comprovante e aprovação do gestor.",
+      "roles": [
+        "operations",
+        "finance",
+        "legal"
+      ],
+      "valid_from": "2026-04-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-003",
+      "version": 1,
+      "title": "Vencimento de contrato",
+      "body": "O vencimento de contrato é revisado pelo Jurídico com antecedência de 45 dias. A renovação depende de decisão registrada pelo responsável.",
+      "roles": [
+        "legal"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-004",
+      "version": 1,
+      "title": "Fechamento mensal",
+      "body": "O fechamento mensal ocorre no quinto dia útil. Finanças verifica divergências e registra exceções antes de liberar o relatório.",
+      "roles": [
+        "finance"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-005",
+      "version": 1,
+      "title": "Incidente operacional",
+      "body": "Um incidente operacional deve ser registrado com horário, impacto e responsável. A liderança define contenção e acompanha a recuperação.",
+      "roles": [
+        "operations",
+        "finance",
+        "legal"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-006",
+      "version": 1,
+      "title": "Política de backup",
+      "body": "O backup é realizado diariamente. A equipe faz teste de restauração mensal e registra as evidências do procedimento.",
+      "roles": [
+        "operations",
+        "finance",
+        "legal"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-007",
+      "version": 1,
+      "title": "Solicitação de acesso",
+      "body": "A solicitação de acesso precisa indicar área, unidade e finalidade. O gestor aprova o menor conjunto de permissões necessário.",
+      "roles": [
+        "operations",
+        "finance",
+        "legal"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-008",
+      "version": 1,
+      "title": "Cadastro de fornecedor",
+      "body": "O cadastro de fornecedor exige validação documental e aprovação de Finanças. Alterações ficam registradas com data e motivo.",
+      "roles": [
+        "finance"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": null
+    },
+    {
+      "id": "DOC-002",
+      "version": 1,
+      "title": "Prazo de reembolso",
+      "body": "O prazo de reembolso é de cinco dias após a despesa. A solicitação deve conter comprovante.",
+      "roles": [
+        "operations",
+        "finance",
+        "legal"
+      ],
+      "valid_from": "2026-01-01",
+      "valid_until": "2026-04-01"
+    }
+  ]
+}

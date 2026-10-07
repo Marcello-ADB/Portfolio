@@ -1,0 +1,77 @@
+{
+  "synthetic": true,
+  "cases": [
+    {
+      "id": "E01",
+      "question": "compra cotação",
+      "role": "operations",
+      "expected_document": "DOC-001"
+    },
+    {
+      "id": "E02",
+      "question": "prazo de reembolso",
+      "role": "operations",
+      "expected_document": "DOC-002"
+    },
+    {
+      "id": "E03",
+      "question": "vencimento de contrato",
+      "role": "legal",
+      "expected_document": "DOC-003"
+    },
+    {
+      "id": "E04",
+      "question": "fechamento mensal",
+      "role": "finance",
+      "expected_document": "DOC-004"
+    },
+    {
+      "id": "E05",
+      "question": "incidente operacional",
+      "role": "operations",
+      "expected_document": "DOC-005"
+    },
+    {
+      "id": "E06",
+      "question": "política de backup",
+      "role": "operations",
+      "expected_document": "DOC-006"
+    },
+    {
+      "id": "E07",
+      "question": "solicitação de acesso",
+      "role": "operations",
+      "expected_document": "DOC-007"
+    },
+    {
+      "id": "E08",
+      "question": "cadastro de fornecedor",
+      "role": "finance",
+      "expected_document": "DOC-008"
+    },
+    {
+      "id": "E09",
+      "question": "vencimento de contrato",
+      "role": "operations",
+      "expected_document": null
+    },
+    {
+      "id": "E10",
+      "question": "salário do presidente",
+      "role": "finance",
+      "expected_document": null
+    },
+    {
+      "id": "E11",
+      "question": "fechamento mensal",
+      "role": "operations",
+      "expected_document": null
+    },
+    {
+      "id": "E12",
+      "question": "reembolso para turismo lunar",
+      "role": "operations",
+      "expected_document": null
+    }
+  ]
+}

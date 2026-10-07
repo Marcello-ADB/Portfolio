@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "mode": "extractive_bm25_baseline",
+  "role": "operations",
+  "as_of": "2026-06-30",
+  "status": "evidence_found",
+  "citations": [
+    {
+      "document_id": "DOC-002",
+      "version": 2,
+      "title": "Prazo de reembolso",
+      "citation": "DOC-002@v2#p1",
+      "excerpt": "O prazo de reembolso é de dez dias após a despesa. A solicitação deve conter comprovante e aprovação do gestor.",
+      "score": 4.047575,
+      "term_coverage": 1.0
+    }
+  ],
+  "answer": "O prazo de reembolso é de dez dias após a despesa. A solicitação deve conter comprovante e aprovação do gestor.",
+  "limitation": "Extractive retrieval only: no LLM, embeddings, legal advice or automated action."
+}

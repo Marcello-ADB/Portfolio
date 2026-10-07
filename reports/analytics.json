@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "planner": "approved_templates_v1",
+  "identity": "manager_north",
+  "units": [
+    "Norte"
+  ],
+  "intent": "budget_variance",
+  "sql": "SELECT unit, SUM(budget_cents) AS budget_cents, SUM(actual_cents) AS actual_cents, SUM(actual_cents - budget_cents) AS variance_cents FROM expenses WHERE month = ? GROUP BY unit ORDER BY unit",
+  "parameters": [
+    "2026-06"
+  ],
+  "rows": [
+    {
+      "unit": "Norte",
+      "budget_cents": 4967869,
+      "actual_cents": 2818508,
+      "variance_cents": -2149361
+    }
+  ],
+  "meaning": "Positive variance means actual spend exceeds budget; it is not a forecast.",
+  "query_hash": "3a69303fba5ba99bd1797a67789bf3dad72dcf18fcf709e778bfad3fb1abc1c0",
+  "empty": false
+}

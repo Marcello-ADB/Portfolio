@@ -1,0 +1,763 @@
+{
+  "synthetic": true,
+  "seed": 1937,
+  "currency": "BRL",
+  "rows": [
+    {
+      "unit": "Norte",
+      "month": "2026-01",
+      "category": "Operação",
+      "budget_cents": 2039536,
+      "actual_cents": 1045603
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-01",
+      "category": "Suprimentos",
+      "budget_cents": 2137437,
+      "actual_cents": 1625697
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-01",
+      "category": "Serviços",
+      "budget_cents": 1928811,
+      "actual_cents": 2195643
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-02",
+      "category": "Operação",
+      "budget_cents": 1599755,
+      "actual_cents": 966559
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-02",
+      "category": "Suprimentos",
+      "budget_cents": 872539,
+      "actual_cents": 1525611
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-02",
+      "category": "Serviços",
+      "budget_cents": 1787906,
+      "actual_cents": 1887734
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-03",
+      "category": "Operação",
+      "budget_cents": 1313947,
+      "actual_cents": 1950879
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-03",
+      "category": "Suprimentos",
+      "budget_cents": 1968587,
+      "actual_cents": 2051594
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-03",
+      "category": "Serviços",
+      "budget_cents": 837997,
+      "actual_cents": 903547
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-04",
+      "category": "Operação",
+      "budget_cents": 1710305,
+      "actual_cents": 1843549
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-04",
+      "category": "Suprimentos",
+      "budget_cents": 1694106,
+      "actual_cents": 1414026
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-04",
+      "category": "Serviços",
+      "budget_cents": 1210442,
+      "actual_cents": 1107382
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-05",
+      "category": "Operação",
+      "budget_cents": 1802019,
+      "actual_cents": 993986
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-05",
+      "category": "Suprimentos",
+      "budget_cents": 1775382,
+      "actual_cents": 2075936
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-05",
+      "category": "Serviços",
+      "budget_cents": 1521168,
+      "actual_cents": 933592
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-06",
+      "category": "Operação",
+      "budget_cents": 1602419,
+      "actual_cents": 1071211
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-06",
+      "category": "Suprimentos",
+      "budget_cents": 1920413,
+      "actual_cents": 935202
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-06",
+      "category": "Serviços",
+      "budget_cents": 1445037,
+      "actual_cents": 812095
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-07",
+      "category": "Operação",
+      "budget_cents": 1294444,
+      "actual_cents": 1692668
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-07",
+      "category": "Suprimentos",
+      "budget_cents": 1688936,
+      "actual_cents": 1497683
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-07",
+      "category": "Serviços",
+      "budget_cents": 1041092,
+      "actual_cents": 1793542
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-08",
+      "category": "Operação",
+      "budget_cents": 1254534,
+      "actual_cents": 965959
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-08",
+      "category": "Suprimentos",
+      "budget_cents": 2167708,
+      "actual_cents": 2264515
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-08",
+      "category": "Serviços",
+      "budget_cents": 2078864,
+      "actual_cents": 858662
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-09",
+      "category": "Operação",
+      "budget_cents": 2123847,
+      "actual_cents": 769795
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-09",
+      "category": "Suprimentos",
+      "budget_cents": 1484537,
+      "actual_cents": 1835232
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-09",
+      "category": "Serviços",
+      "budget_cents": 1106093,
+      "actual_cents": 1248568
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-10",
+      "category": "Operação",
+      "budget_cents": 2168591,
+      "actual_cents": 1083404
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-10",
+      "category": "Suprimentos",
+      "budget_cents": 1759543,
+      "actual_cents": 1580094
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-10",
+      "category": "Serviços",
+      "budget_cents": 1501365,
+      "actual_cents": 757547
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-11",
+      "category": "Operação",
+      "budget_cents": 1328845,
+      "actual_cents": 930403
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-11",
+      "category": "Suprimentos",
+      "budget_cents": 1697941,
+      "actual_cents": 1820938
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-11",
+      "category": "Serviços",
+      "budget_cents": 1729888,
+      "actual_cents": 1262317
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-12",
+      "category": "Operação",
+      "budget_cents": 1456569,
+      "actual_cents": 1750126
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-12",
+      "category": "Suprimentos",
+      "budget_cents": 1319363,
+      "actual_cents": 1805912
+    },
+    {
+      "unit": "Norte",
+      "month": "2026-12",
+      "category": "Serviços",
+      "budget_cents": 864633,
+      "actual_cents": 1560511
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-01",
+      "category": "Operação",
+      "budget_cents": 2170163,
+      "actual_cents": 2265599
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-01",
+      "category": "Suprimentos",
+      "budget_cents": 1061680,
+      "actual_cents": 850208
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-01",
+      "category": "Serviços",
+      "budget_cents": 916076,
+      "actual_cents": 1315029
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-02",
+      "category": "Operação",
+      "budget_cents": 1262170,
+      "actual_cents": 2077720
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-02",
+      "category": "Suprimentos",
+      "budget_cents": 1960027,
+      "actual_cents": 1691346
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-02",
+      "category": "Serviços",
+      "budget_cents": 1077478,
+      "actual_cents": 1844440
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-03",
+      "category": "Operação",
+      "budget_cents": 1271662,
+      "actual_cents": 986877
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-03",
+      "category": "Suprimentos",
+      "budget_cents": 1368152,
+      "actual_cents": 1904100
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-03",
+      "category": "Serviços",
+      "budget_cents": 1669694,
+      "actual_cents": 1755551
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-04",
+      "category": "Operação",
+      "budget_cents": 1931478,
+      "actual_cents": 1249866
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-04",
+      "category": "Suprimentos",
+      "budget_cents": 1783657,
+      "actual_cents": 2178254
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-04",
+      "category": "Serviços",
+      "budget_cents": 2130224,
+      "actual_cents": 2151461
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-05",
+      "category": "Operação",
+      "budget_cents": 1468998,
+      "actual_cents": 2207374
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-05",
+      "category": "Suprimentos",
+      "budget_cents": 1538378,
+      "actual_cents": 1898960
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-05",
+      "category": "Serviços",
+      "budget_cents": 1275993,
+      "actual_cents": 954811
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-06",
+      "category": "Operação",
+      "budget_cents": 1388171,
+      "actual_cents": 1095125
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-06",
+      "category": "Suprimentos",
+      "budget_cents": 1066614,
+      "actual_cents": 1173232
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-06",
+      "category": "Serviços",
+      "budget_cents": 1344680,
+      "actual_cents": 1173133
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-07",
+      "category": "Operação",
+      "budget_cents": 904496,
+      "actual_cents": 1993833
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-07",
+      "category": "Suprimentos",
+      "budget_cents": 927169,
+      "actual_cents": 776618
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-07",
+      "category": "Serviços",
+      "budget_cents": 2043536,
+      "actual_cents": 790069
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-08",
+      "category": "Operação",
+      "budget_cents": 1571698,
+      "actual_cents": 1402675
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-08",
+      "category": "Suprimentos",
+      "budget_cents": 1407618,
+      "actual_cents": 870264
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-08",
+      "category": "Serviços",
+      "budget_cents": 1769547,
+      "actual_cents": 1027648
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-09",
+      "category": "Operação",
+      "budget_cents": 1495029,
+      "actual_cents": 1368121
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-09",
+      "category": "Suprimentos",
+      "budget_cents": 2067048,
+      "actual_cents": 1961705
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-09",
+      "category": "Serviços",
+      "budget_cents": 1421534,
+      "actual_cents": 1003643
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-10",
+      "category": "Operação",
+      "budget_cents": 1011986,
+      "actual_cents": 1247120
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-10",
+      "category": "Suprimentos",
+      "budget_cents": 1836077,
+      "actual_cents": 1756557
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-10",
+      "category": "Serviços",
+      "budget_cents": 1009013,
+      "actual_cents": 1671593
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-11",
+      "category": "Operação",
+      "budget_cents": 1539680,
+      "actual_cents": 2214839
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-11",
+      "category": "Suprimentos",
+      "budget_cents": 2127143,
+      "actual_cents": 1897059
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-11",
+      "category": "Serviços",
+      "budget_cents": 1803901,
+      "actual_cents": 1595917
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-12",
+      "category": "Operação",
+      "budget_cents": 920756,
+      "actual_cents": 1192054
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-12",
+      "category": "Suprimentos",
+      "budget_cents": 1909616,
+      "actual_cents": 1166254
+    },
+    {
+      "unit": "Sul",
+      "month": "2026-12",
+      "category": "Serviços",
+      "budget_cents": 1952189,
+      "actual_cents": 1696924
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-01",
+      "category": "Operação",
+      "budget_cents": 1973178,
+      "actual_cents": 1206202
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-01",
+      "category": "Suprimentos",
+      "budget_cents": 1352262,
+      "actual_cents": 1423713
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-01",
+      "category": "Serviços",
+      "budget_cents": 1194662,
+      "actual_cents": 1956235
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-02",
+      "category": "Operação",
+      "budget_cents": 1703516,
+      "actual_cents": 1268724
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-02",
+      "category": "Suprimentos",
+      "budget_cents": 2119350,
+      "actual_cents": 1622280
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-02",
+      "category": "Serviços",
+      "budget_cents": 2152178,
+      "actual_cents": 2225506
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-03",
+      "category": "Operação",
+      "budget_cents": 2073711,
+      "actual_cents": 1659395
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-03",
+      "category": "Suprimentos",
+      "budget_cents": 1578758,
+      "actual_cents": 1486650
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-03",
+      "category": "Serviços",
+      "budget_cents": 2144569,
+      "actual_cents": 2261314
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-04",
+      "category": "Operação",
+      "budget_cents": 2027341,
+      "actual_cents": 1622965
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-04",
+      "category": "Suprimentos",
+      "budget_cents": 1558925,
+      "actual_cents": 916593
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-04",
+      "category": "Serviços",
+      "budget_cents": 1753675,
+      "actual_cents": 1086931
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-05",
+      "category": "Operação",
+      "budget_cents": 1675912,
+      "actual_cents": 1153986
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-05",
+      "category": "Suprimentos",
+      "budget_cents": 841323,
+      "actual_cents": 1490349
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-05",
+      "category": "Serviços",
+      "budget_cents": 1538599,
+      "actual_cents": 2199526
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-06",
+      "category": "Operação",
+      "budget_cents": 2192987,
+      "actual_cents": 2221177
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-06",
+      "category": "Suprimentos",
+      "budget_cents": 2050579,
+      "actual_cents": 1718389
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-06",
+      "category": "Serviços",
+      "budget_cents": 1352623,
+      "actual_cents": 1890642
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-07",
+      "category": "Operação",
+      "budget_cents": 1187411,
+      "actual_cents": 1370426
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-07",
+      "category": "Suprimentos",
+      "budget_cents": 980044,
+      "actual_cents": 2268071
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-07",
+      "category": "Serviços",
+      "budget_cents": 2185574,
+      "actual_cents": 1542946
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-08",
+      "category": "Operação",
+      "budget_cents": 1935573,
+      "actual_cents": 1880805
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-08",
+      "category": "Suprimentos",
+      "budget_cents": 1926517,
+      "actual_cents": 1243290
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-08",
+      "category": "Serviços",
+      "budget_cents": 1065230,
+      "actual_cents": 1440862
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-09",
+      "category": "Operação",
+      "budget_cents": 1960325,
+      "actual_cents": 1661701
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-09",
+      "category": "Suprimentos",
+      "budget_cents": 821473,
+      "actual_cents": 1408466
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-09",
+      "category": "Serviços",
+      "budget_cents": 891892,
+      "actual_cents": 1422973
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-10",
+      "category": "Operação",
+      "budget_cents": 1968136,
+      "actual_cents": 2187906
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-10",
+      "category": "Suprimentos",
+      "budget_cents": 1693097,
+      "actual_cents": 751198
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-10",
+      "category": "Serviços",
+      "budget_cents": 1779335,
+      "actual_cents": 800439
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-11",
+      "category": "Operação",
+      "budget_cents": 1755355,
+      "actual_cents": 1241740
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-11",
+      "category": "Suprimentos",
+      "budget_cents": 1116858,
+      "actual_cents": 956129
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-11",
+      "category": "Serviços",
+      "budget_cents": 1722012,
+      "actual_cents": 2087008
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-12",
+      "category": "Operação",
+      "budget_cents": 1540548,
+      "actual_cents": 1480725
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-12",
+      "category": "Suprimentos",
+      "budget_cents": 826574,
+      "actual_cents": 1288803
+    },
+    {
+      "unit": "Centro",
+      "month": "2026-12",
+      "category": "Serviços",
+      "budget_cents": 2100515,
+      "actual_cents": 1222290
+    }
+  ]
+}

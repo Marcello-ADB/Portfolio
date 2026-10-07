@@ -1,0 +1,685 @@
+{
+  "synthetic": true,
+  "rule_version": "1.0",
+  "snapshot_complete": true,
+  "cutoffs": {
+    "fiscal": "2026-06-30",
+    "erp": "2026-06-29"
+  },
+  "source_hashes": {
+    "fiscal": "c18c88cd8ad2a9d198438a6a93bb1a3078b050df0802e9b85513a5c5fe3037ae",
+    "erp": "212e7f1df7b6a377ea77bda7d43abce6a9a762614ea54d87fa03f4f3efbb3f72"
+  },
+  "summary": {
+    "ambiguous": 4,
+    "amount_mismatch": 4,
+    "awaiting_erp": 4,
+    "awaiting_fiscal": 4,
+    "cancelled": 4,
+    "matched": 4,
+    "missing_erp": 4,
+    "missing_fiscal": 4,
+    "state_conflict": 4
+  },
+  "actionable_count": 16,
+  "rejected": [],
+  "items": [
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1001"
+      ],
+      "status": "matched",
+      "reason": "Within the configured one-cent tolerance.",
+      "fiscal_ids": [
+        "F-001"
+      ],
+      "erp_ids": [
+        "E-001"
+      ],
+      "delta": "0.00",
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1005"
+      ],
+      "status": "amount_mismatch",
+      "reason": "Amounts disagree; review source evidence.",
+      "fiscal_ids": [
+        "F-005"
+      ],
+      "erp_ids": [
+        "E-005"
+      ],
+      "delta": "75.00",
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1009"
+      ],
+      "status": "missing_erp",
+      "reason": "Investigate absence from the complete ERP snapshot.",
+      "fiscal_ids": [
+        "F-009"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1013"
+      ],
+      "status": "awaiting_erp",
+      "reason": "Document is newer than the ERP snapshot.",
+      "fiscal_ids": [
+        "F-013"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1017"
+      ],
+      "status": "cancelled",
+      "reason": "Cancelled document; exclude from the active queue.",
+      "fiscal_ids": [
+        "F-017"
+      ],
+      "erp_ids": [
+        "E-017"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1021"
+      ],
+      "status": "ambiguous",
+      "reason": "Business key is not one-to-one; resolve source duplicates.",
+      "fiscal_ids": [
+        "F-021"
+      ],
+      "erp_ids": [
+        "E-021",
+        "E-021-duplicate"
+      ],
+      "delta": null,
+      "owner": "data_quality",
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1025"
+      ],
+      "status": "state_conflict",
+      "reason": "Cancellation state differs between sources.",
+      "fiscal_ids": [
+        "F-025"
+      ],
+      "erp_ids": [
+        "E-025"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1029"
+      ],
+      "status": "missing_fiscal",
+      "reason": "Investigate absence from the complete fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-029"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-001",
+        "A",
+        "1033"
+      ],
+      "status": "awaiting_fiscal",
+      "reason": "Document is newer than the fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-033"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1003"
+      ],
+      "status": "matched",
+      "reason": "Within the configured one-cent tolerance.",
+      "fiscal_ids": [
+        "F-003"
+      ],
+      "erp_ids": [
+        "E-003"
+      ],
+      "delta": "0.00",
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1007"
+      ],
+      "status": "amount_mismatch",
+      "reason": "Amounts disagree; review source evidence.",
+      "fiscal_ids": [
+        "F-007"
+      ],
+      "erp_ids": [
+        "E-007"
+      ],
+      "delta": "75.00",
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1011"
+      ],
+      "status": "missing_erp",
+      "reason": "Investigate absence from the complete ERP snapshot.",
+      "fiscal_ids": [
+        "F-011"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1015"
+      ],
+      "status": "awaiting_erp",
+      "reason": "Document is newer than the ERP snapshot.",
+      "fiscal_ids": [
+        "F-015"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1019"
+      ],
+      "status": "cancelled",
+      "reason": "Cancelled document; exclude from the active queue.",
+      "fiscal_ids": [
+        "F-019"
+      ],
+      "erp_ids": [
+        "E-019"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1023"
+      ],
+      "status": "ambiguous",
+      "reason": "Business key is not one-to-one; resolve source duplicates.",
+      "fiscal_ids": [
+        "F-023"
+      ],
+      "erp_ids": [
+        "E-023",
+        "E-023-duplicate"
+      ],
+      "delta": null,
+      "owner": "data_quality",
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1027"
+      ],
+      "status": "state_conflict",
+      "reason": "Cancellation state differs between sources.",
+      "fiscal_ids": [
+        "F-027"
+      ],
+      "erp_ids": [
+        "E-027"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1031"
+      ],
+      "status": "missing_fiscal",
+      "reason": "Investigate absence from the complete fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-031"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-01",
+        "SUP-003",
+        "A",
+        "1035"
+      ],
+      "status": "awaiting_fiscal",
+      "reason": "Document is newer than the fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-035"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1002"
+      ],
+      "status": "matched",
+      "reason": "Within the configured one-cent tolerance.",
+      "fiscal_ids": [
+        "F-002"
+      ],
+      "erp_ids": [
+        "E-002"
+      ],
+      "delta": "0.00",
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1006"
+      ],
+      "status": "amount_mismatch",
+      "reason": "Amounts disagree; review source evidence.",
+      "fiscal_ids": [
+        "F-006"
+      ],
+      "erp_ids": [
+        "E-006"
+      ],
+      "delta": "75.00",
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1010"
+      ],
+      "status": "missing_erp",
+      "reason": "Investigate absence from the complete ERP snapshot.",
+      "fiscal_ids": [
+        "F-010"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1014"
+      ],
+      "status": "awaiting_erp",
+      "reason": "Document is newer than the ERP snapshot.",
+      "fiscal_ids": [
+        "F-014"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1018"
+      ],
+      "status": "cancelled",
+      "reason": "Cancelled document; exclude from the active queue.",
+      "fiscal_ids": [
+        "F-018"
+      ],
+      "erp_ids": [
+        "E-018"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1022"
+      ],
+      "status": "ambiguous",
+      "reason": "Business key is not one-to-one; resolve source duplicates.",
+      "fiscal_ids": [
+        "F-022"
+      ],
+      "erp_ids": [
+        "E-022",
+        "E-022-duplicate"
+      ],
+      "delta": null,
+      "owner": "data_quality",
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1026"
+      ],
+      "status": "state_conflict",
+      "reason": "Cancellation state differs between sources.",
+      "fiscal_ids": [
+        "F-026"
+      ],
+      "erp_ids": [
+        "E-026"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1030"
+      ],
+      "status": "missing_fiscal",
+      "reason": "Investigate absence from the complete fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-030"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-002",
+        "A",
+        "1034"
+      ],
+      "status": "awaiting_fiscal",
+      "reason": "Document is newer than the fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-034"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1004"
+      ],
+      "status": "matched",
+      "reason": "Within the configured one-cent tolerance.",
+      "fiscal_ids": [
+        "F-004"
+      ],
+      "erp_ids": [
+        "E-004"
+      ],
+      "delta": "0.00",
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1008"
+      ],
+      "status": "amount_mismatch",
+      "reason": "Amounts disagree; review source evidence.",
+      "fiscal_ids": [
+        "F-008"
+      ],
+      "erp_ids": [
+        "E-008"
+      ],
+      "delta": "75.00",
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1012"
+      ],
+      "status": "missing_erp",
+      "reason": "Investigate absence from the complete ERP snapshot.",
+      "fiscal_ids": [
+        "F-012"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1016"
+      ],
+      "status": "awaiting_erp",
+      "reason": "Document is newer than the ERP snapshot.",
+      "fiscal_ids": [
+        "F-016"
+      ],
+      "erp_ids": [],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1020"
+      ],
+      "status": "cancelled",
+      "reason": "Cancelled document; exclude from the active queue.",
+      "fiscal_ids": [
+        "F-020"
+      ],
+      "erp_ids": [
+        "E-020"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1024"
+      ],
+      "status": "ambiguous",
+      "reason": "Business key is not one-to-one; resolve source duplicates.",
+      "fiscal_ids": [
+        "F-024"
+      ],
+      "erp_ids": [
+        "E-024",
+        "E-024-duplicate"
+      ],
+      "delta": null,
+      "owner": "data_quality",
+      "actionable": false
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1028"
+      ],
+      "status": "state_conflict",
+      "reason": "Cancellation state differs between sources.",
+      "fiscal_ids": [
+        "F-028"
+      ],
+      "erp_ids": [
+        "E-028"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1032"
+      ],
+      "status": "missing_fiscal",
+      "reason": "Investigate absence from the complete fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-032"
+      ],
+      "delta": null,
+      "owner": "finance_review",
+      "actionable": true
+    },
+    {
+      "key": [
+        "ORG-02",
+        "SUP-004",
+        "A",
+        "1036"
+      ],
+      "status": "awaiting_fiscal",
+      "reason": "Document is newer than the fiscal snapshot.",
+      "fiscal_ids": [],
+      "erp_ids": [
+        "E-036"
+      ],
+      "delta": null,
+      "owner": null,
+      "actionable": false
+    }
+  ],
+  "interpretation": "Exceptions are review candidates, not losses or savings."
+}

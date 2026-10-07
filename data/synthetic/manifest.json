@@ -1,0 +1,8 @@
+{
+  "synthetic": true,
+  "organization": "Instituto Horizonte (fictício)",
+  "provenance": "Generated from authored scenarios and fixed random seeds; no source records or production code.",
+  "contains_personal_data": false,
+  "generator": "scripts/generate_data.py",
+  "version": "1.0"
+}

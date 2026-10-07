@@ -1,0 +1,648 @@
+{
+  "synthetic": true,
+  "seed": 7421,
+  "fiscal_through": "2026-06-30",
+  "erp_through": "2026-06-29",
+  "fiscal": [
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "1001",
+      "amount": "940.43",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-001"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "1002",
+      "amount": "2751.30",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-002"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "1003",
+      "amount": "3036.20",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-003"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "1004",
+      "amount": "1217.68",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-004"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "1005",
+      "amount": "2994.38",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-005"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "1006",
+      "amount": "1915.13",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-006"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "1007",
+      "amount": "860.11",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-007"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "1008",
+      "amount": "2565.04",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-008"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "1009",
+      "amount": "614.44",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-009"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "1010",
+      "amount": "2034.75",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-010"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "1011",
+      "amount": "888.12",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-011"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "1012",
+      "amount": "935.48",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-012"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "1013",
+      "amount": "1228.36",
+      "issued_on": "2026-06-30",
+      "state": "active",
+      "id": "F-013"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "1014",
+      "amount": "732.00",
+      "issued_on": "2026-06-30",
+      "state": "active",
+      "id": "F-014"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "1015",
+      "amount": "492.54",
+      "issued_on": "2026-06-30",
+      "state": "active",
+      "id": "F-015"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "1016",
+      "amount": "2170.76",
+      "issued_on": "2026-06-30",
+      "state": "active",
+      "id": "F-016"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "1017",
+      "amount": "821.98",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-017"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "1018",
+      "amount": "443.45",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-018"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "1019",
+      "amount": "2429.76",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-019"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "1020",
+      "amount": "1901.74",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-020"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "1021",
+      "amount": "2631.92",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-021"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "1022",
+      "amount": "1014.94",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-022"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "1023",
+      "amount": "2088.85",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-023"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "1024",
+      "amount": "2773.94",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "F-024"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "1025",
+      "amount": "1969.93",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-025"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "1026",
+      "amount": "1441.29",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-026"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "1027",
+      "amount": "757.10",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-027"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "1028",
+      "amount": "1949.86",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "F-028"
+    }
+  ],
+  "erp": [
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001001",
+      "amount": "940.43",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-001"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001002",
+      "amount": "2751.30",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-002"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001003",
+      "amount": "3036.20",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-003"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001004",
+      "amount": "1217.68",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-004"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001005",
+      "amount": "3069.38",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-005"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001006",
+      "amount": "1990.13",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-006"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001007",
+      "amount": "935.11",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-007"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001008",
+      "amount": "2640.04",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-008"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001017",
+      "amount": "821.98",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "E-017"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001018",
+      "amount": "443.45",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "E-018"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001019",
+      "amount": "2429.76",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "E-019"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001020",
+      "amount": "1901.74",
+      "issued_on": "2026-06-28",
+      "state": "cancelled",
+      "id": "E-020"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001021",
+      "amount": "2631.92",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-021"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001021",
+      "amount": "2631.92",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-021-duplicate"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001022",
+      "amount": "1014.94",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-022"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001022",
+      "amount": "1014.94",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-022-duplicate"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001023",
+      "amount": "2088.85",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-023"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001023",
+      "amount": "2088.85",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-023-duplicate"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001024",
+      "amount": "2773.94",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-024"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001024",
+      "amount": "2773.94",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-024-duplicate"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001025",
+      "amount": "1969.93",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-025"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001026",
+      "amount": "1441.29",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-026"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001027",
+      "amount": "757.10",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-027"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001028",
+      "amount": "1949.86",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-028"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001029",
+      "amount": "807.27",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-029"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001030",
+      "amount": "2140.60",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-030"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001031",
+      "amount": "2651.96",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-031"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001032",
+      "amount": "2322.76",
+      "issued_on": "2026-06-28",
+      "state": "active",
+      "id": "E-032"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-001",
+      "series": "A",
+      "number": "001033",
+      "amount": "1159.43",
+      "issued_on": "2026-07-01",
+      "state": "active",
+      "id": "E-033"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-002",
+      "series": "A",
+      "number": "001034",
+      "amount": "3007.98",
+      "issued_on": "2026-07-01",
+      "state": "active",
+      "id": "E-034"
+    },
+    {
+      "company": "ORG-01",
+      "supplier": "SUP-003",
+      "series": "A",
+      "number": "001035",
+      "amount": "1785.10",
+      "issued_on": "2026-07-01",
+      "state": "active",
+      "id": "E-035"
+    },
+    {
+      "company": "ORG-02",
+      "supplier": "SUP-004",
+      "series": "A",
+      "number": "001036",
+      "amount": "819.55",
+      "issued_on": "2026-07-01",
+      "state": "active",
+      "id": "E-036"
+    }
+  ],
+  "expected": {
+    "1001": "matched",
+    "1002": "matched",
+    "1003": "matched",
+    "1004": "matched",
+    "1005": "amount_mismatch",
+    "1006": "amount_mismatch",
+    "1007": "amount_mismatch",
+    "1008": "amount_mismatch",
+    "1009": "missing_erp",
+    "1010": "missing_erp",
+    "1011": "missing_erp",
+    "1012": "missing_erp",
+    "1013": "awaiting_erp",
+    "1014": "awaiting_erp",
+    "1015": "awaiting_erp",
+    "1016": "awaiting_erp",
+    "1017": "cancelled",
+    "1018": "cancelled",
+    "1019": "cancelled",
+    "1020": "cancelled",
+    "1021": "ambiguous",
+    "1022": "ambiguous",
+    "1023": "ambiguous",
+    "1024": "ambiguous",
+    "1025": "state_conflict",
+    "1026": "state_conflict",
+    "1027": "state_conflict",
+    "1028": "state_conflict",
+    "1029": "missing_fiscal",
+    "1030": "missing_fiscal",
+    "1031": "missing_fiscal",
+    "1032": "missing_fiscal",
+    "1033": "awaiting_fiscal",
+    "1034": "awaiting_fiscal",
+    "1035": "awaiting_fiscal",
+    "1036": "awaiting_fiscal"
+  }
+}
